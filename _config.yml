@@ -1,10 +1,9 @@
 title: <p align="center"> L.A.D </p>
 
-logo: "/images/VergilDMC.jpg?raw=true"
+logo: "/images/Vergil.jpg?raw=true"
 
 description:
   <p align="center">
-  <a href="pdf/resume.pdf">Resume</a> |
   <a href="https://github.com/LAD2k3">GitHub</a>
   </p>
   
@@ -12,6 +11,9 @@ description:
   I am studying SoftWare Engineering at Sai Gon University.
   <br><br>
   I am currently learning AI and new programing techniques.
+  <br><br>
+  "I have learn:"
+  C# Java Python SQL html css Javascript Kotlin Dart C++
   <br><br>
   </p>
   
